@@ -1,0 +1,100 @@
+Susan Meyers
+47899
+Accounting
+President
+85000.00
+Bob Smith
+56789
+Accounting
+Vice President
+75000.00
+Mark Jones
+39119
+IT
+Executive manager
+75000.00
+Joy Rogers
+81774
+Manufacturing
+Engineer
+66000.00
+Mary McMath
+34567
+Marketing
+Manager
+66000.00
+John Gail
+23677
+Marketing
+Assistant Manager
+54000.00
+Kim Lee
+45997
+Cleaning
+Head
+45500.00
+Van Minx
+65545
+IT
+Programmer
+66000.00
+Sylvia Benjamin
+87654
+IT
+Programmer
+67000.00
+Frans Kelenuoh
+34001
+Accounting
+Accounter
+70000.00
+Louis Deleon
+88324
+Cafeteria
+Head
+$54000.00
+Miya Bains
+79809
+Accounting
+Accounter
+70000.00
+Parris Snider
+66981
+Manufacturing
+Lead Manager
+81000.00
+Adrienne Lee
+46026
+Marketing
+Intern
+29000.00
+Francis O'Neill
+77210
+Marketing
+Intern
+29000.00
+Corrina West
+59622
+Accounting
+Intern
+38000.00
+Elinor Davison
+78126
+Accounting
+Intern
+38000.00
+Floyd Marin
+20748
+Cafeteria
+Assistant Head
+47600.00
+Darrel Gale
+30891
+Cleaning
+Cleaner
+39500.00
+Jordana Franklin
+78126
+Cleaning
+Cleaner
+39500.00 
